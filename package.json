@@ -9,7 +9,7 @@
   ],
   "repository": "",
   "dependencies": {
-    "aws-sdk" : "*"
+    "aws-sdk" : "2.0.0-rc13"
   },
   "repository": {
     "type": "git",
