@@ -9,7 +9,7 @@
   ],
   "repository": "",
   "dependencies": {
-    "aws-sdk" : "*"
+    "aws-sdk" : "git+ssh://git@github.com:FastSociety/aws-sdk-js.git"
   },
   "repository": {
     "type": "git",
